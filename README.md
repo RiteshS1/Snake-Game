@@ -9,16 +9,3 @@ A simple implementation of the classic Snake game using HTML, CSS, and JavaScrip
 - **Game Over Handling**: The game ends if the snake collides with itself or the walls, turning the board red for 2 seconds before resetting.
 - **Responsive Design**: The game is designed to work on both desktop and mobile devices.
 
-## Getting Started
-
-### Prerequisites
-
-- A web browser (Chrome, Firefox, etc.)
-- A code editor (optional, for modifications)
-
-### Installation
-
-1. Clone the repository or download the files.
-2. Open `index.html` in your web browser.
-
-### File Structure
